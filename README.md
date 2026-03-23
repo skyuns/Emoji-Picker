@@ -1,4 +1,4 @@
-🚀 Initial Release v0.1
+😃 Emoji 表情符號搜尋器
 
 這是一個基於 Unicode 官方標準開發的高效繪文字搜尋工具。
 
@@ -16,3 +16,5 @@
 - Interactive staging area for emoji combinations.
 - Generation-based filtering (Win 11 / Win 10 / Legacy).
 - AI-assisted Chinese keyword optimization.
+
+🚀 Initial Release v0.1
